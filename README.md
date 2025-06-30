@@ -9,7 +9,7 @@ I'm an accomplished scientist with a PhD in Microbiology and Immunology, and exp
 * Developing Dashboards in Tableau
 
 ## :books: Projects
-  Welcome to my portfolio, where I showcase my [projects](https://github.com/Sydney-Simpson/Projects) and passions
+  Welcome to my portfolio, where I showcase my [projects](https://github.com/Sydney-Simpson/Portfolio-Guide) and passions
 
 ## :wrench: Tools
   * Languages: SQL, R, Python
